@@ -1,0 +1,19 @@
+{
+  "name": "SION PHOENIX LITE",
+  "description": "Cerebro de SION Fénix - Un asistente personalizado para gestión y análisis",
+  "version": "1.0.0",
+  "model": "gpt-4",
+  "capabilities": {
+    "web_browsing": false,
+    "code_interpreter": true,
+    "dalle_image_generation": false
+  },
+  "conversation_starters": [
+    "¿Cómo puedo ayudarte hoy?",
+    "¿Qué información necesitas analizar?",
+    "¿En qué proyecto estás trabajando?",
+    "¿Necesitas ayuda con alguna tarea específica?"
+  ],
+  "instructions_file": "instructions.md",
+  "knowledge_base_directory": "knowledge_base"
+}
