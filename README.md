@@ -13,6 +13,8 @@ Este repositorio contiene todo lo necesario para implementar y personalizar tu p
 
 ## 🚀 Inicio Rápido
 
+**¿Primera vez?** → Lee la [**Guía de Inicio Rápido**](QUICKSTART.md) (5 minutos) ⚡
+
 1. **Clona este repositorio**
    ```bash
    git clone https://github.com/rubentnoda/SION_PHOENIX_LITE.git
@@ -24,7 +26,8 @@ Este repositorio contiene todo lo necesario para implementar y personalizar tu p
    - Consulta `custom-gpt-config.json` para la configuración
 
 3. **Configura tu GPT**
-   - Sigue la guía detallada en [`USAGE.md`](USAGE.md)
+   - Sigue la guía paso a paso en [`QUICKSTART.md`](QUICKSTART.md)
+   - O lee la guía completa en [`USAGE.md`](USAGE.md)
    - Copia las instrucciones a tu GPT personalizado en ChatGPT
 
 ## 📁 Estructura
@@ -49,6 +52,7 @@ SION_PHOENIX_LITE/
 
 ## 📚 Documentación
 
+- **[🚀 Inicio Rápido](QUICKSTART.md)** - Comienza en 5 minutos (recomendado para principiantes)
 - **[Guía de Uso](USAGE.md)** - Cómo configurar e implementar el GPT
 - **[Instrucciones](instructions.md)** - Comportamiento y personalidad del GPT
 - **[Configuración](custom-gpt-config.json)** - Metadata y configuración técnica
