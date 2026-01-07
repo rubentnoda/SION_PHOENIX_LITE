@@ -155,4 +155,4 @@ Para más información sobre GPTs personalizados:
 ---
 
 **Versión:** 1.0.0  
-**Última actualización:** 2026-01-07
+**Última actualización:** 2025-01-07
